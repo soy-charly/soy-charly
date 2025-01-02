@@ -1,6 +1,6 @@
-# ¡Hola! Soy [soy-charly] 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de software, especialmente el **backend**. Aunque actualmente estoy en el inicio de mi camino en la programación, estoy aprendiendo activamente tecnologías y lenguajes como **HTML**, **JavaScript**, **CSS**, **Python** y **Arduino**. 
+Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de software, especialmente el **backend**. Aunque actualmente estoy en el inicio de mi camino en la programación, estoy aprendiendo activamente tecnologías y lenguajes como **HTML**, **JavaScript**, **CSS**, **Python** y **Arduino**.
 
 ## 🌱 Estoy aprendiendo
 
@@ -22,6 +22,18 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 
 ## 📫 ¿Cómo contactarme?
 
-- **GitHub**: [Tu GitHub](https://github.com/soy-charly/)
+- **GitHub**: [Tu GitHub](https://github.com/tu-enlace)
+
+## 📊 Estadísticas
+
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/tu-enlace)
+![GitHub followers](https://img.shields.io/github/followers/tu-enlace?style=social)
+
+## 🔧 Herramientas que utilizo
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=fff)
 
 ¡Gracias por visitar mi perfil!
