@@ -14,16 +14,6 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 - Iniciándome en el desarrollo de aplicaciones backend con **Node.js** y **Python**.
 - Comenzando con proyectos pequeños en **Arduino** para entender el hardware.
 
-## 🚀 Objetivos
-
-- Mejorar mis habilidades en **backend**.
-- Trabajar en proyectos pequeños y colaborar con otros desarrolladores.
-- Aprender más sobre bases de datos y cómo gestionar aplicaciones a gran escala.
-
-## 📫 ¿Cómo contactarme?
-
-- **GitHub**: [soy-charly](https://github.com/soy-charly)
-
 ## 📊 Estadísticas
 
 ![GitHub Activity](https://img.shields.io/github/commit-activity/m/soy-charly?style=flat&label=Commits)
