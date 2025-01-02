@@ -31,7 +31,7 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 
 ### Mis estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soy-charly&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soy-charly&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soy-charly&layout=compact&theme=radical)
 
 ### Mis rachas de contribuciones
