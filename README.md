@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy [Carlos] 👋
 
 Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de software, especialmente el **backend**. Aunque actualmente estoy en el inicio de mi camino en la programación, estoy aprendiendo activamente tecnologías y lenguajes como **HTML**, **JavaScript**, **CSS**, **Python** y **Arduino**.
 
@@ -22,12 +22,21 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 
 ## 📫 ¿Cómo contactarme?
 
-- **GitHub**: [Tu GitHub](https://github.com/tu-enlace)
+- **GitHub**: [soy-charly](https://github.com/soy-charly)
 
 ## 📊 Estadísticas
 
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/tu-enlace?style=flat&label=Commits)
-![GitHub followers](https://img.shields.io/github/followers/tu-enlace?style=social&label=Followers)
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/soy-charly?style=flat&label=Commits)
+![GitHub followers](https://img.shields.io/github/followers/soy-charly?style=social&label=Followers)
+
+### Mis estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soy-charly&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soy-charly&layout=compact&theme=radical)
+
+### Mis rachas de contribuciones
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soy-charly&theme=radical)
 
 ## 🔧 Herramientas que utilizo
 
