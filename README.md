@@ -1,18 +1,27 @@
-# 👋 Hi, I’m @charly2008
+# ¡Hola! Soy [soy-charly] 👋
 
-- 👀 I’m interested in web development, automation, backend development, and creating innovative solutions for everyday problems.
-- 🌱 I’m currently learning Python, PowerShell, as well as enhancing my skills in frontend development (HTML, CSS, JavaScript).
-- 📫 How to reach me: You can contact me through GitHub
-- ⚡ Fun fact: I love diving into the world of video games, both classic and modern, and enjoy exploring how to bring them to life on the web!
+Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de software, especialmente el **backend**. Aunque actualmente estoy en el inicio de mi camino en la programación, estoy aprendiendo activamente tecnologías y lenguajes como **HTML**, **JavaScript**, **CSS**, **Python** y **Arduino**. 
 
-  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-<!--![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)-->
+## 🌱 Estoy aprendiendo
 
-## 📊 GitHub Stats
+- **Lenguajes**: HTML, JavaScript, CSS, Python, Arduino.
+- **Backend**: Explorando conceptos básicos y aprendiendo sobre desarrollo de aplicaciones web.
+- **Desarrollo web**: Empezando a trabajar en la creación de aplicaciones con frontend y backend.
 
-![Charly's GitHub stats](https://github-readme-stats.vercel.app/api?username=soy-charly&show_icons=true&theme=dark)
+## 📚 ¿Qué estoy aprendiendo actualmente?
+
+- Fundamentos de **JavaScript** y **HTML/CSS** para mejorar mis habilidades en frontend.
+- Iniciándome en el desarrollo de aplicaciones backend con **Node.js** y **Python**.
+- Comenzando con proyectos pequeños en **Arduino** para entender el hardware.
+
+## 🚀 Objetivos
+
+- Mejorar mis habilidades en **backend**.
+- Trabajar en proyectos pequeños y colaborar con otros desarrolladores.
+- Aprender más sobre bases de datos y cómo gestionar aplicaciones a gran escala.
+
+## 📫 ¿Cómo contactarme?
+
+- **GitHub**: [Tu GitHub](https://github.com/soy-charly/)
+
+¡Gracias por visitar mi perfil!
