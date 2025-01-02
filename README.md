@@ -16,11 +16,6 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 
 ## 📊 Estadísticas
 
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/soy-charly?style=flat&label=Commits)
-![GitHub followers](https://img.shields.io/github/followers/soy-charly?style=social&label=Followers)
-
-### Mis estadísticas de GitHub
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soy-charly&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soy-charly&layout=compact&theme=radical)
@@ -36,4 +31,3 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)
 
-¡Gracias por visitar mi perfil!
