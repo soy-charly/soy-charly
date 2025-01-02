@@ -26,14 +26,14 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 
 ## 📊 Estadísticas
 
-![GitHub Activity](https://img.shields.io/github/commit-activity/m/tu-enlace)
-![GitHub followers](https://img.shields.io/github/followers/tu-enlace?style=social)
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/tu-enlace?style=flat&label=Commits)
+![GitHub followers](https://img.shields.io/github/followers/tu-enlace?style=social&label=Followers)
 
 ## 🔧 Herramientas que utilizo
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)
 
 ¡Gracias por visitar mi perfil!
