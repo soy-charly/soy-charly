@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Carlos] 👋
+# ¡Hola! Soy Carlos 👋
 
 Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de software, especialmente el **backend**. Aunque actualmente estoy en el inicio de mi camino en la programación, estoy aprendiendo activamente tecnologías y lenguajes como **HTML**, **JavaScript**, **CSS**, **Python** y **Arduino**.
 
