@@ -20,10 +20,6 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soy-charly&layout=compact&theme=radical)
 
-### Mis rachas de contribuciones
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soy-charly&theme=radical&hide_border=true)
-
 ## 🔧 Herramientas que utilizo
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
