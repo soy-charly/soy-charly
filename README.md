@@ -22,7 +22,7 @@ Soy un estudiante de **bachillerato** con una gran pasión por el desarrollo de 
 
 ### Mis rachas de contribuciones
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soy-charly&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=soy-charly&theme=radical)
 
 ## 🔧 Herramientas que utilizo
 
