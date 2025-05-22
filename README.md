@@ -1,27 +1,41 @@
-# Carlos Sánchez - Backend Developer
+# 👨‍💻 Sobre mí
 
-> "Toma una idea. Hazla tu vida: piensa sobre ella, sueña con ella, vívela. Deja que tus músculos, cerebro, nervios y cada parte de tu cuerpo se llenen de esa idea. Luego deja todas las demás ideas solas. Ese es el camino hacia el éxito."  
-> — Swami Vivekananda
+¡Hola! Soy Carlos Vergara, desarrollador apasionado por la tecnología y la innovación. Me especializo en el desarrollo de soluciones web y aplicaciones que marcan la diferencia.
 
-## Acerca de mí
+- 🌐 Sitio web: [charly.is-a.dev](https://charly.is-a.dev)
+- 📍 Ubicación: España
+- 🏆 Logros en GitHub:
+  - 🧊 Arctic Code Vault Contributor
+  - 🦈 Pull Shark x2
+  - 🌟 Starstruck
 
-Soy Carlos Sánchez, un apasionado desarrollador backend con un enfoque en la creación de soluciones eficientes y escalables. Creo firmemente que la lógica y el orden son fundamentales en el desarrollo de software, ya que sin ellos, la funcionalidad se ve comprometida. Mi objetivo es asegurar que cada proyecto no solo sea estéticamente agradable, sino también funcional y robusto, prestando atención a cada detalle para garantizar una experiencia de usuario óptima.
+---
 
-## Conocimientos
+# 🚀 Proyectos Destacados
 
-- **Backend Development**: Diseño y desarrollo de la lógica que impulsa las aplicaciones, asegurando eficiencia y escalabilidad.
-- **Bases de datos**: Gestión y almacenamiento de datos utilizando tecnologías adecuadas, ya sea SQL para estructuras relacionales o NoSQL para datos más flexibles y escalables.
+## [¿Cuánto falta para las elecciones?](https://github.com/cfv1984/cuanto-falta-para-las-elecciones)
 
+Aplicación web que informa a los ciudadanos sobre el tiempo restante para las próximas elecciones.  
+📌 HTML + JavaScript • 📅 Cuenta regresiva en tiempo real
 
-## 📊 Estadísticas
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soy-charly&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soy-charly&layout=compact&theme=radical)
+# 🛠️ Habilidades Técnicas
 
-## 🔧 Herramientas que utilizo
+- **Lenguajes:** JavaScript, HTML, CSS
+- **Frameworks/Bibliotecas:** React, Node.js
+- **Herramientas:** Git, GitHub, VS Code
+- **Extras:** UI/UX, diseño responsivo, optimización web
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)
+---
+
+# 📈 Stats de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=cfv1984&show_icons=true&theme=radical)
+
+---
+
+# 📫 Contacto
+
+- 🌍 [charly.is-a.dev](https://charly.is-a.dev)
+- 📧 [Carlos.Sanchez.carrasco2008@gmail.com](mailto:Carlos.Sanchez.carrasco2008@gmail.com)
