@@ -31,7 +31,7 @@ Aplicación web que informa a los ciudadanos sobre el tiempo restante para las p
 
 # 📈 Stats de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=cfv1984&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=soy-charly&show_icons=true&theme=radical)
 
 ---
 
