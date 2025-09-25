@@ -4,28 +4,14 @@
 
 - 🌐 Sitio web: [charly.is-a.dev](https://charly.is-a.dev)
 - 📍 Ubicación: España
-- 🏆 Logros en GitHub:
-  - 🧊 Arctic Code Vault Contributor
-  - 🦈 Pull Shark x2
-  - 🌟 Starstruck
-
----
-
-# 🚀 Proyectos Destacados
-
-## [¿Cuánto falta para las elecciones?](https://github.com/cfv1984/cuanto-falta-para-las-elecciones)
-
-Aplicación web que informa a los ciudadanos sobre el tiempo restante para las próximas elecciones.  
-📌 HTML + JavaScript • 📅 Cuenta regresiva en tiempo real
 
 ---
 
 # 🛠️ Habilidades Técnicas
 
-- **Lenguajes:** JavaScript, HTML, CSS
-- **Frameworks/Bibliotecas:** React, Node.js
+- **Lenguajes:** JavaScript, HTML, CSS, Python
+- **Frameworks/Bibliotecas:** React, Node.js, fastAPI
 - **Herramientas:** Git, GitHub, VS Code
-- **Extras:** UI/UX, diseño responsivo, optimización web
 
 ---
 
